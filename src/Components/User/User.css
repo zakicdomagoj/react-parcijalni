@@ -1,0 +1,29 @@
+.container {
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.header {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.avatar {
+  border-radius: 50%;
+  text-align: center;
+  float: left;
+}
+
+.text {
+  margin-left: 20px;
+  float: left;
+  line-height: 150px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.repos {
+  list-style-type: none;
+}

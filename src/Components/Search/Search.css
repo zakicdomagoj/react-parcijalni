@@ -1,0 +1,22 @@
+.input-info {
+  width: 300px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  margin-right: 5px;
+  padding: 8px 16px;
+}
+
+.button {
+  border-radius: 5px;
+  border: none;
+  width: 335px;
+  color: white;
+  background-color: grey;
+  padding: 8px 16px;
+  margin-top: 15px;
+}
+
+.container {
+  margin-left: 10px;
+  box-sizing: border-box;
+}
